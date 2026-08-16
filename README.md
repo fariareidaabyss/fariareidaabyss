@@ -56,23 +56,6 @@ I also share tips and learning notes about **web development (HTML/CSS/JS), Lara
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![XAMPP](https://img.shields.io/badge/XAMPP-1F8B4C?style=for-the-badge&logo=xampp)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fariareidaabyss&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariareidaabyss&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
