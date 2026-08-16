@@ -1,6 +1,6 @@
 # Hi 👋, I'm João Faria
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior Software Engineer
 🇵🇹 Portugal
 
 I build **web projects and e-commerce platforms** with attention to performance and maintainability — projects that users can actually use.  
